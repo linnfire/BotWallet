@@ -1,6 +1,29 @@
 # BotWallet (AI Auto Wallet)
 
-basically: bots are blocked, but bots can be customers! 
+## Built with Codex and GPT-5.6
+
+BotWallet was built using Codex with GPT-5.6.
+
+Codex:
+- Build the BotWallet agent payment architecture
+- Implement the HTTP 402 Payment Required flow
+- Connect BotNews as a machine-readable merchant
+- Integrate Pinch for payment processing
+- Implement Bot Limit spending controls
+- Build the CLI agent demo
+- Debug and iterate on the payment and settlement flow
+- Refine the user interface and agent interaction experience
+
+Key architectural decisions were made around:
+- Using HTTP 402 to allow websites to communicate payment requirements directly to AI agents
+- Separating the agent, BotWallet, payment provider, and merchant
+- Using Bot Limit to enforce spending rules before payment
+- Allowing the agent to retry the original request after payment confirmation
+
+GPT-5.6 and Codex were used throughout development to accelerate implementation, debugging, architectural iteration, and refinement. They were able to interpret vague ideas like: "build a bot that can pay for stuff" into real fleshed out systems that they reccomended before acting on. It was like having a engineer, strategist and COFOUNDER all in one. It did crucial actions but also crucial plans to fully form an idea. 
+
+
+# basically: bots can be customers! 
 instead of blocking ai bots websites can charge them and let them buy access automatically. 
 
 payment systems, front end with buttons are designed for humans and bots cannot buy stuff. usually they clog traffic, scrape websites and are annoying. what if they were paying customers? Now bots can buy information (news articles), even clothes, aeroplane tickets, anything!
