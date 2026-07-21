@@ -118,7 +118,7 @@ Everyone has ideas. The hard part is execution, and even harder is knowing which
 
 Our original idea was simple: **build a bot that could block other bots.**
 
-But while asking GPT-5.6 and Codex, I started questioning whether that was actually the right problem to solve.
+But while asking GPT-5.6 and Codex, they questioned whether that was actually the right problem to solve.
 
 Instead of **"How do we stop bots?"**, we started asking, **"What if bots could become customers?"**
 
@@ -274,17 +274,6 @@ This separation makes the concept easier to extend to other merchants and types 
 
 Instead of only building a UI mockup, we built a working machine-to-machine demo.
 
-The agent:
-
-1. Requests premium content
-2. Receives `402 Payment Required`
-3. Reads the payment offer
-4. Checks its Bot Limit
-5. Pays through Pinch
-6. Settles with the merchant
-7. Retries the original request
-8. Receives `200 OK`
-9. Gets the premium content
 
 This made the concept tangible and testable.
 
