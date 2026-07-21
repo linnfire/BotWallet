@@ -1,9 +1,9 @@
 # BotWallet (AI Auto Wallet)
 
-so basically: Bots are blocked, but bots can be customers! ^o^
+basically: bots are blocked, but bots can be customers! 
 instead of blocking ai bots websites can charge them and let them buy access automatically. 
 
-payment systems, front end with buttons are designed for humans and bots cannot buy stuff. Usually they clog traffic, scrape websites and are annoying. But what if they were paying customers? Now bots can buy information (news articles), even clothes, aeroplane tickets, anything!
+payment systems, front end with buttons are designed for humans and bots cannot buy stuff. usually they clog traffic, scrape websites and are annoying. what if they were paying customers? Now bots can buy information (news articles), even clothes, aeroplane tickets, anything!
 
 
 BotWallet is an autonomous AI agent that can research, compare options, and complete approved purchases. It follows the user’s spending rules, daily budget, and auto-approval limits through Pinch Payments.
