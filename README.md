@@ -1,4 +1,4 @@
-# BotWallet (AI Agent Wallet)
+# BotWallet (AI Auto Wallet)
 
 so basically: Bots are blocked, but bots can be customers! ^o^
 instead of blocking ai bots websites can charge them and let them buy access automatically. 
